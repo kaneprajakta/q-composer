@@ -1,0 +1,15 @@
+{
+    "name": "kanep/q-composer",
+    "autoload": {
+        "psr-4": {
+            "Kanep\\QComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prajakta",
+            "email": "kane.prajakta@gmail.com"
+        }
+    ],
+    "require": {}
+}
